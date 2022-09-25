@@ -128,10 +128,11 @@ mkdir -p /var/www/$DOMAIN_NAME/html
 cat << EOF > /var/www/$DOMAIN_NAME/html/index.html
 <html>
     <head>
-        <title>iamtrazy</title>
+        <title>𝓐𝓲𝓭𝓮𝓷</title>
     </head>
     <body>
-        <h1>I LOVE TAYLOR SWIFT</h1>
+    	<h1> Hi Vibe Stepler , How are you ? </h1>
+        <img src=”https://th.bing.com/th/id/R.31f5e2649cdfe9829ca63bee7669c391?rik=7ZnYYRwNpaP9Yg&riu=http%3a%2f%2f68.media.tumblr.com%2f367e5e06f2000dc29c4b23df285379fe%2ftumblr_ortqii9Wn81vci2pzo1_540.gif&ehk=xfEiI5z0q1oKKXHEFxt21jzlFqA6%2fqnc7jSF8TFyvmM%3d&risl=&pid=ImgRaw&r=0”>
     </body>
 </html>
 EOF
